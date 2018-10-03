@@ -16,10 +16,10 @@ A comment to the forked version
 
 Why am I a bad README? Find the errors to fix and the issues to improve me. Thanks!
 
-## Projet description
+## Project description
 
- ### Sub-tittle
+ ### Subtitle
 
-# Intallation instruction
+# Installation instruction
 
 - Usage
